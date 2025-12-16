@@ -1,4 +1,4 @@
-This GitHub profile hosts a curated collection of software repositories developed during my PhD and subsequently transferred to the **University of Lübeck**.
+This GitHub profile hosts a collection of selected software repositories developed during my PhD and subsequently transferred to the **University of Lübeck**.
 The repositories contained here include research code created in the context of my doctoral research and have been used in publications. Each repository contains its own README with more detailed information on usage.
 
 All repositories have been transferred to this organization to ensure:
